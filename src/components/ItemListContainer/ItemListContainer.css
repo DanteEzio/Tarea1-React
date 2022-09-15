@@ -1,0 +1,13 @@
+.funColor {
+-webkit-animation: random 15s infinite;
+animation: random 15s infinite;
+}
+
+@keyframes random {
+15% { background-color: #e3ff87; } 
+30% { background-color: #ff7c96; } 
+45% { background-color: #6ffffa; }
+60% { background-color: #ef6b30; } 
+75% { background-color: #bf69b1; } 
+}
+
